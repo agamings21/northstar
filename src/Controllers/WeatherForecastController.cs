@@ -1,8 +1,9 @@
 
 using Microsoft.AspNetCore.Mvc;
-using northstar;
+using Northstar.Data;
+using Northstar.Models;
 
-namespace MyApi.Controllers;
+namespace Northstar.Controllers;
 
 [ApiController]
 [Route("[controller]")]

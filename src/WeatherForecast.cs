@@ -1,4 +1,4 @@
-namespace northstar;
+namespace Northstar.Models;
 
 public class WeatherForecast
 {

@@ -1,5 +1,6 @@
-// Models/Item.cs
 using Microsoft.EntityFrameworkCore;
+
+namespace Northstar.Data;
 
 public class Item
 {

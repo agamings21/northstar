@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Northstar.Data;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
